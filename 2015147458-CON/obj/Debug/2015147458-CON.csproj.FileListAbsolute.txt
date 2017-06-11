@@ -1,0 +1,6 @@
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-CON\bin\Debug\2015147458-CON.exe.config
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-CON\bin\Debug\2015147458-CON.exe
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-CON\bin\Debug\2015147458-CON.pdb
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-CON\obj\Debug\2015147458-CON.exe
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-CON\obj\Debug\2015147458-CON.pdb
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-CON\obj\Debug\2015147458-CON.csprojResolveAssemblyReference.cache

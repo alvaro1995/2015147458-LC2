@@ -1,0 +1,14 @@
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\2015147458-PER.dll.config
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\2015147458-PER.dll
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\2015147458-PER.pdb
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\2015147458-ENT.dll
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\EntityFramework.dll
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\2015147458-ENT.pdb
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\EntityFramework.xml
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\obj\Debug\2015147458-PER.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\obj\Debug\2015147458-PER.dll
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\obj\Debug\2015147458-PER.pdb
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\obj\Debug\_2015147458_PER.Migrations.Model_1A.resources
+C:\Users\Alvaro\Desktop\PC 2\2015147458\2015147458-PER\obj\Debug\2015147458-PER.csproj.GenerateResource.Cache
